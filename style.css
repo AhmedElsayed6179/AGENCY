@@ -265,6 +265,7 @@ header {
     box-shadow: none;
     z-index: 100;
     cursor: pointer;
+    font-size: 16px;
 }
 
 /* Solutions Section */
@@ -1078,4 +1079,5 @@ footer .footer-bottom b {
         font-size: 14px;
         padding: 10px 20px;
     }
+
 }
